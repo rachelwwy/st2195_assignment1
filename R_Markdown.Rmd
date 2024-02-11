@@ -1,0 +1,16 @@
+---
+title: "R Markdown file"
+author: "wei ying"
+date: "2024-02-11"
+output: html_document
+---
+
+**R MARKDOWN CODE 1 to 10**
+
+
+```{r code for integers 1 to 10}
+1:10
+```
+
+
+
